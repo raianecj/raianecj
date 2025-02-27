@@ -2,7 +2,7 @@
 ## Sobre mim
 
  - 🐱‍💻 Eu sou a Raiane.
- - 🔭 Atualmente estou trabalhando como Assistente de QA na Serasa Experian.
+ - 🔭 Atualmente estou trabalhando como QA na Serasa Experian.
  - 🌱 Estou terminando minha graduação em Sistemas de Informação e me aperfeiçoando para ser uma desenvolvedora FrontEnd.
 
 ## Tecnologias que estou estudando:

@@ -3,7 +3,7 @@
 
  - 🐱‍💻 Eu sou a Raiane.
  - 🔭 Atualmente estou trabalhando como QA na Serasa Experian analisando requisitos do sistema, planejando casos de testes e executando testes manuais e implementação do ambiente.
- - 🌱 Estou terminando minha graduação em Sistemas de Informação e desenvolvendo habilidades em HTML, CSS, JavaScript, Git, React, Typescript e Node.js.
+ - 🌱 Estou terminando minha graduação em Sistemas de Informação e desenvolvendo habilidades em HTML, CSS, JavaScript, Git, React, Typescript, Node.js e Cypress.
  - 🎨 Também trabalho com plataformas como WordPress e ferramentas de design como Figma.
 
 ## Tecnologias que estou estudando:
